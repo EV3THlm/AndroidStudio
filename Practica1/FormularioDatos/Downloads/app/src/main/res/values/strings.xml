@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Datos</string>
+    <string name="telefono">Telefono</string>
+    <string name="edad">Edad</string>
+    <string name="carrera">Carrera</string>
+    <string name="nombre">Nombre</string>
+    <string name="formulario">Formulario</string>
+    <string name="enviar">Enviar</string>
+</resources>
