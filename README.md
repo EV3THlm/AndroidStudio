@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="me.jpg" alt="Descripción de la imagen" width="200" />
+</p>
+
 # Proyectos en Android Studio
 
 Este repositorio contiene varios proyectos de Android Studio, cada uno dentro de su propia carpeta. A continuación se detalla cada proyecto:
