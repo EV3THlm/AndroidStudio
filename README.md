@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="me.jpg" alt="Descripción de la imagen" width="200" />
+  <img src="yo2.jpg" alt="Descripción de la imagen" width="250" />
 </p>
 
 # Proyectos en Android Studio
