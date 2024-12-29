@@ -15,3 +15,5 @@ Descripción: Este proyecto es una aplicación de ejemplo que utiliza layauts y 
 
 - [Proyecto2](./practica2/)
 Descripción: Este proyecto es una aplicación que interactua entre dos ventanas, en la primera le pedimos al usuario que ingrese su nombre, y al pulsar un boton se abre otra ventana saludandolo.
+
+faltaron mas practicas
